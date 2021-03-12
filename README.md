@@ -1,0 +1,1 @@
+This is Ted's first git project!
